@@ -8,6 +8,7 @@ function App() {
 
   return (
     <h1 className="text-8xl italic text-red-700">Hello World</h1>
+    <h1 className="text-8xl italic text-red-400">Miss ko na siya</h1>
   )
 }
 
